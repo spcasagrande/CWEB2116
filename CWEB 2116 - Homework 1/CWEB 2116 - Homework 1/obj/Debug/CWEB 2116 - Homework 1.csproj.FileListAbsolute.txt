@@ -1,0 +1,7 @@
+C:\Users\cassamp\source\repos\CWEB 2116 - Homework 1\CWEB 2116 - Homework 1\bin\Debug\CWEB 2116 - Homework 1.exe.config
+C:\Users\cassamp\source\repos\CWEB 2116 - Homework 1\CWEB 2116 - Homework 1\bin\Debug\CWEB 2116 - Homework 1.exe
+C:\Users\cassamp\source\repos\CWEB 2116 - Homework 1\CWEB 2116 - Homework 1\bin\Debug\CWEB 2116 - Homework 1.pdb
+C:\Users\cassamp\source\repos\CWEB 2116 - Homework 1\CWEB 2116 - Homework 1\obj\Debug\CWEB 2116 - Homework 1.csproj.AssemblyReference.cache
+C:\Users\cassamp\source\repos\CWEB 2116 - Homework 1\CWEB 2116 - Homework 1\obj\Debug\CWEB 2116 - Homework 1.csproj.CoreCompileInputs.cache
+C:\Users\cassamp\source\repos\CWEB 2116 - Homework 1\CWEB 2116 - Homework 1\obj\Debug\CWEB 2116 - Homework 1.exe
+C:\Users\cassamp\source\repos\CWEB 2116 - Homework 1\CWEB 2116 - Homework 1\obj\Debug\CWEB 2116 - Homework 1.pdb
