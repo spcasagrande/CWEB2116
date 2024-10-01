@@ -1,0 +1,6 @@
+C:\Users\cassamp\source\repos\CWEB 2116 - Homework 2\OperationsLibrary\bin\Debug\OperationsLibrary.dll
+C:\Users\cassamp\source\repos\CWEB 2116 - Homework 2\OperationsLibrary\bin\Debug\OperationsLibrary.pdb
+C:\Users\cassamp\source\repos\CWEB 2116 - Homework 2\OperationsLibrary\obj\Debug\OperationsLibrary.csproj.AssemblyReference.cache
+C:\Users\cassamp\source\repos\CWEB 2116 - Homework 2\OperationsLibrary\obj\Debug\OperationsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\cassamp\source\repos\CWEB 2116 - Homework 2\OperationsLibrary\obj\Debug\OperationsLibrary.dll
+C:\Users\cassamp\source\repos\CWEB 2116 - Homework 2\OperationsLibrary\obj\Debug\OperationsLibrary.pdb
