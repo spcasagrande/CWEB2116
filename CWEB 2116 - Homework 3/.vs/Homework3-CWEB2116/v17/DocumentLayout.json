@@ -1,0 +1,240 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cassamp\\source\\repos\\Homework3-CWEB2116\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53C10E59-08E9-4F09-97EA-8BB939032AD6}|Homework3-CWEB2116\\Homework3-CWEB2116.csproj|c:\\users\\cassamp\\source\\repos\\homework3-cweb2116\\homework3-cweb2116\\customfilters\\authlogattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C10E59-08E9-4F09-97EA-8BB939032AD6}|Homework3-CWEB2116\\Homework3-CWEB2116.csproj|solutionrelative:homework3-cweb2116\\customfilters\\authlogattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C10E59-08E9-4F09-97EA-8BB939032AD6}|Homework3-CWEB2116\\Homework3-CWEB2116.csproj|c:\\users\\cassamp\\source\\repos\\homework3-cweb2116\\homework3-cweb2116\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C10E59-08E9-4F09-97EA-8BB939032AD6}|Homework3-CWEB2116\\Homework3-CWEB2116.csproj|solutionrelative:homework3-cweb2116\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C10E59-08E9-4F09-97EA-8BB939032AD6}|Homework3-CWEB2116\\Homework3-CWEB2116.csproj|c:\\users\\cassamp\\source\\repos\\homework3-cweb2116\\homework3-cweb2116\\views\\shared\\authorizefailed.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53C10E59-08E9-4F09-97EA-8BB939032AD6}|Homework3-CWEB2116\\Homework3-CWEB2116.csproj|solutionrelative:homework3-cweb2116\\views\\shared\\authorizefailed.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C10E59-08E9-4F09-97EA-8BB939032AD6}|Homework3-CWEB2116\\Homework3-CWEB2116.csproj|c:\\users\\cassamp\\source\\repos\\homework3-cweb2116\\homework3-cweb2116\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53C10E59-08E9-4F09-97EA-8BB939032AD6}|Homework3-CWEB2116\\Homework3-CWEB2116.csproj|solutionrelative:homework3-cweb2116\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C10E59-08E9-4F09-97EA-8BB939032AD6}|Homework3-CWEB2116\\Homework3-CWEB2116.csproj|c:\\users\\cassamp\\source\\repos\\homework3-cweb2116\\homework3-cweb2116\\views\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53C10E59-08E9-4F09-97EA-8BB939032AD6}|Homework3-CWEB2116\\Homework3-CWEB2116.csproj|solutionrelative:homework3-cweb2116\\views\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C10E59-08E9-4F09-97EA-8BB939032AD6}|Homework3-CWEB2116\\Homework3-CWEB2116.csproj|c:\\users\\cassamp\\source\\repos\\homework3-cweb2116\\homework3-cweb2116\\views\\book\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53C10E59-08E9-4F09-97EA-8BB939032AD6}|Homework3-CWEB2116\\Homework3-CWEB2116.csproj|solutionrelative:homework3-cweb2116\\views\\book\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C10E59-08E9-4F09-97EA-8BB939032AD6}|Homework3-CWEB2116\\Homework3-CWEB2116.csproj|c:\\users\\cassamp\\source\\repos\\homework3-cweb2116\\homework3-cweb2116\\models\\bookmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{53C10E59-08E9-4F09-97EA-8BB939032AD6}|Homework3-CWEB2116\\Homework3-CWEB2116.csproj|solutionrelative:homework3-cweb2116\\models\\bookmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C10E59-08E9-4F09-97EA-8BB939032AD6}|Homework3-CWEB2116\\Homework3-CWEB2116.csproj|c:\\users\\cassamp\\source\\repos\\homework3-cweb2116\\homework3-cweb2116\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C10E59-08E9-4F09-97EA-8BB939032AD6}|Homework3-CWEB2116\\Homework3-CWEB2116.csproj|solutionrelative:homework3-cweb2116\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C10E59-08E9-4F09-97EA-8BB939032AD6}|Homework3-CWEB2116\\Homework3-CWEB2116.csproj|c:\\users\\cassamp\\source\\repos\\homework3-cweb2116\\homework3-cweb2116\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53C10E59-08E9-4F09-97EA-8BB939032AD6}|Homework3-CWEB2116\\Homework3-CWEB2116.csproj|solutionrelative:homework3-cweb2116\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C10E59-08E9-4F09-97EA-8BB939032AD6}|Homework3-CWEB2116\\Homework3-CWEB2116.csproj|c:\\users\\cassamp\\source\\repos\\homework3-cweb2116\\homework3-cweb2116\\views\\role\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53C10E59-08E9-4F09-97EA-8BB939032AD6}|Homework3-CWEB2116\\Homework3-CWEB2116.csproj|solutionrelative:homework3-cweb2116\\views\\role\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C10E59-08E9-4F09-97EA-8BB939032AD6}|Homework3-CWEB2116\\Homework3-CWEB2116.csproj|c:\\users\\cassamp\\source\\repos\\homework3-cweb2116\\homework3-cweb2116\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C10E59-08E9-4F09-97EA-8BB939032AD6}|Homework3-CWEB2116\\Homework3-CWEB2116.csproj|solutionrelative:homework3-cweb2116\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C10E59-08E9-4F09-97EA-8BB939032AD6}|Homework3-CWEB2116\\Homework3-CWEB2116.csproj|c:\\users\\cassamp\\source\\repos\\homework3-cweb2116\\homework3-cweb2116\\views\\role\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53C10E59-08E9-4F09-97EA-8BB939032AD6}|Homework3-CWEB2116\\Homework3-CWEB2116.csproj|solutionrelative:homework3-cweb2116\\views\\role\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C10E59-08E9-4F09-97EA-8BB939032AD6}|Homework3-CWEB2116\\Homework3-CWEB2116.csproj|c:\\users\\cassamp\\source\\repos\\homework3-cweb2116\\homework3-cweb2116\\models\\accountviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C10E59-08E9-4F09-97EA-8BB939032AD6}|Homework3-CWEB2116\\Homework3-CWEB2116.csproj|solutionrelative:homework3-cweb2116\\models\\accountviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthLogAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\cassamp\\source\\repos\\Homework3-CWEB2116\\Homework3-CWEB2116\\CustomFilters\\AuthLogAttribute.cs",
+              "RelativeDocumentMoniker": "Homework3-CWEB2116\\CustomFilters\\AuthLogAttribute.cs",
+              "ToolTip": "C:\\Users\\cassamp\\source\\repos\\Homework3-CWEB2116\\Homework3-CWEB2116\\CustomFilters\\AuthLogAttribute.cs",
+              "RelativeToolTip": "Homework3-CWEB2116\\CustomFilters\\AuthLogAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T01:19:10.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthorizeFailed.cshtml",
+              "DocumentMoniker": "C:\\Users\\cassamp\\source\\repos\\Homework3-CWEB2116\\Homework3-CWEB2116\\Views\\Shared\\AuthorizeFailed.cshtml",
+              "RelativeDocumentMoniker": "Homework3-CWEB2116\\Views\\Shared\\AuthorizeFailed.cshtml",
+              "ToolTip": "C:\\Users\\cassamp\\source\\repos\\Homework3-CWEB2116\\Homework3-CWEB2116\\Views\\Shared\\AuthorizeFailed.cshtml",
+              "RelativeToolTip": "Homework3-CWEB2116\\Views\\Shared\\AuthorizeFailed.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T01:17:13.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\cassamp\\source\\repos\\Homework3-CWEB2116\\Homework3-CWEB2116\\Views\\Book\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Homework3-CWEB2116\\Views\\Book\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\cassamp\\source\\repos\\Homework3-CWEB2116\\Homework3-CWEB2116\\Views\\Book\\Edit.cshtml",
+              "RelativeToolTip": "Homework3-CWEB2116\\Views\\Book\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T01:09:04.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\cassamp\\source\\repos\\Homework3-CWEB2116\\Homework3-CWEB2116\\Views\\Book\\Create.cshtml",
+              "RelativeDocumentMoniker": "Homework3-CWEB2116\\Views\\Book\\Create.cshtml",
+              "ToolTip": "C:\\Users\\cassamp\\source\\repos\\Homework3-CWEB2116\\Homework3-CWEB2116\\Views\\Book\\Create.cshtml",
+              "RelativeToolTip": "Homework3-CWEB2116\\Views\\Book\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T01:07:55.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\cassamp\\source\\repos\\Homework3-CWEB2116\\Homework3-CWEB2116\\Views\\Book\\Index.cshtml",
+              "RelativeDocumentMoniker": "Homework3-CWEB2116\\Views\\Book\\Index.cshtml",
+              "ToolTip": "C:\\Users\\cassamp\\source\\repos\\Homework3-CWEB2116\\Homework3-CWEB2116\\Views\\Book\\Index.cshtml",
+              "RelativeToolTip": "Homework3-CWEB2116\\Views\\Book\\Index.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T01:06:47.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\cassamp\\source\\repos\\Homework3-CWEB2116\\Homework3-CWEB2116\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "Homework3-CWEB2116\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\cassamp\\source\\repos\\Homework3-CWEB2116\\Homework3-CWEB2116\\Controllers\\BookController.cs",
+              "RelativeToolTip": "Homework3-CWEB2116\\Controllers\\BookController.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAowAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T00:52:28.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookModel.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\cassamp\\source\\repos\\Homework3-CWEB2116\\Homework3-CWEB2116\\Models\\BookModel.edmx",
+              "RelativeDocumentMoniker": "Homework3-CWEB2116\\Models\\BookModel.edmx",
+              "ToolTip": "C:\\Users\\cassamp\\source\\repos\\Homework3-CWEB2116\\Homework3-CWEB2116\\Models\\BookModel.edmx [Diagram1]",
+              "RelativeToolTip": "Homework3-CWEB2116\\Models\\BookModel.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-10-23T00:17:59.524Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\cassamp\\source\\repos\\Homework3-CWEB2116\\Homework3-CWEB2116\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Homework3-CWEB2116\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\cassamp\\source\\repos\\Homework3-CWEB2116\\Homework3-CWEB2116\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Homework3-CWEB2116\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T00:09:17.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\cassamp\\source\\repos\\Homework3-CWEB2116\\Homework3-CWEB2116\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Homework3-CWEB2116\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\cassamp\\source\\repos\\Homework3-CWEB2116\\Homework3-CWEB2116\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Homework3-CWEB2116\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAIwKAAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T00:07:38.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\cassamp\\source\\repos\\Homework3-CWEB2116\\Homework3-CWEB2116\\Views\\Role\\Create.cshtml",
+              "RelativeDocumentMoniker": "Homework3-CWEB2116\\Views\\Role\\Create.cshtml",
+              "ToolTip": "C:\\Users\\cassamp\\source\\repos\\Homework3-CWEB2116\\Homework3-CWEB2116\\Views\\Role\\Create.cshtml",
+              "RelativeToolTip": "Homework3-CWEB2116\\Views\\Role\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T00:06:57.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\cassamp\\source\\repos\\Homework3-CWEB2116\\Homework3-CWEB2116\\Views\\Role\\Index.cshtml",
+              "RelativeDocumentMoniker": "Homework3-CWEB2116\\Views\\Role\\Index.cshtml",
+              "ToolTip": "C:\\Users\\cassamp\\source\\repos\\Homework3-CWEB2116\\Homework3-CWEB2116\\Views\\Role\\Index.cshtml",
+              "RelativeToolTip": "Homework3-CWEB2116\\Views\\Role\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T00:06:24.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "C:\\Users\\cassamp\\source\\repos\\Homework3-CWEB2116\\Homework3-CWEB2116\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "Homework3-CWEB2116\\Controllers\\RoleController.cs",
+              "ToolTip": "C:\\Users\\cassamp\\source\\repos\\Homework3-CWEB2116\\Homework3-CWEB2116\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "Homework3-CWEB2116\\Controllers\\RoleController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T00:01:40.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AccountViewModels.cs",
+              "DocumentMoniker": "C:\\Users\\cassamp\\source\\repos\\Homework3-CWEB2116\\Homework3-CWEB2116\\Models\\AccountViewModels.cs",
+              "RelativeDocumentMoniker": "Homework3-CWEB2116\\Models\\AccountViewModels.cs",
+              "ToolTip": "C:\\Users\\cassamp\\source\\repos\\Homework3-CWEB2116\\Homework3-CWEB2116\\Models\\AccountViewModels.cs",
+              "RelativeToolTip": "Homework3-CWEB2116\\Models\\AccountViewModels.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAA5wFIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T00:00:38.94Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
